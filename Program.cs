@@ -47,7 +47,7 @@ namespace UMLToCode
             public float Amount;
             public DateTime Request;
         }
-        public class Account /*falta relacion con customer*/
+        public class Account
         {
             public String IBAN;
             protected float Amount;
